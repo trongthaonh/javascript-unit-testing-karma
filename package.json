@@ -1,0 +1,19 @@
+{
+  "name": "unit-testing-javascript",
+  "version": "1.0.0",
+  "description": "Unit testing example with Javascript, Jasmine, Karma, Phantomjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start karma.conf.js"
+  },
+  "devDependencies": {
+    "jasmine-core": "^2.2.0",
+    "karma": "^0.12.37",
+    "karma-chrome-launcher": "^0.1.7",
+    "karma-html2js-preprocessor": "^0.1.0",
+    "karma-jasmine": "^0.3.5",
+    "karma-fixture": "^0.2.5"
+  },
+  "author": "Trong Thao",
+  "license": "ISC"
+}
