@@ -14,5 +14,8 @@ Run test:
 
     $ karma start karma.conf.js
 
+##Blog post
+- The demo for article: [Unit testing with Javascript](http://www.gumiviet.com/vi/unit-testing-with-javascript/) - Gumi Vietnam Blog
+
 ##TODO
 - E2E testing with Protractor & Mocha
